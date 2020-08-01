@@ -21,6 +21,7 @@ and much more
 * Nltk
 * Numpy
 * os
+* OpenCV
 
 # Models
 * ResNet50
