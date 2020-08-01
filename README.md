@@ -40,6 +40,13 @@ The model took about 7 hours to train and acheived a Bleu-Score of:
 Here,highest acheived was 30% which shows that model is not as acuurate as expected.However,it can be improved and we can acheive a a BleuScore of 70% and above.
 
 # Results
+## 1
+![](ModelResult/image-2.jpeg)
+## 2
+![](ModelResult/image-1.jpeg)
 
+# Reference
+## Youtube
+CS231n Winter 2016 Lesson 10 Recurrent Neural Networks, Image Captioning and LSTM https://youtu.be/cO0a0QYmFm8?t=32m25s
 ## Code Reference
 https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
